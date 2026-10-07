@@ -1,0 +1,8 @@
+{
+  "name": "vbaproject-writer",
+  "private": true,
+  "description": "Écrit le conteneur OLE (vbaProject.bin) du classeur",
+  "dependencies": {
+    "cfb": "^1.2.2"
+  }
+}
